@@ -1,9 +1,10 @@
-## Hi there 👋
+## Rute Helena🇧🇷
 
-<!--
-**assrute/assrute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**assrute/assrute** is a ✨ _special_ ✨ 
+
+Aqui vou contar um pouquinho de mim, me chamo Rute Helena tenho 17 anos, nascida em São Paulo na zona sul, nasci dia 12|09|2007 em uma quarta-feira, virginiana.
+Esse ano termini meu ensino médio e espero ser uma  psicóloga maravilhosa!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
